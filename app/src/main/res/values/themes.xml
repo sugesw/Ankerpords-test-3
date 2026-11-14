@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.AnkerPods" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/neon_bg</item>
+        <item name="android:statusBarColor">@color/neon_bg</item>
+        <item name="android:navigationBarColor">@color/neon_bg</item>
+    </style>
+</resources>
